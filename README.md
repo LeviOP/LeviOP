@@ -1,6 +1,6 @@
-### Hello buddies 👋
+### Hello 👋
 
-- Levi
-- Schooling.
-- I do random projects in my freetime. 
+- My  name is Levi.
+- I am currently in school.
+- I host projects that I make on github.
 
