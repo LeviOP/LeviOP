@@ -1,8 +1,18 @@
 ## Hello 👋
 ![Views](https://komarev.com/ghpvc/?username=LeviOP)
-- I'm Levi.
-- I am currently in school.
-- I host some projects that I make on github.
+- Know
+  - JavaScript / TypeScript
+  - HTML / CSS
+  - Java
+  - POSIX/Bash/Zsh
+  - C
+  - C++
+  - C#
+  - Python
+  - Lua
+  - BF
+- Learning
+  - Rust
 
 ## Stats
 ![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviOP&show_icons=true&theme=tokyonight&include_all_commits=true)
